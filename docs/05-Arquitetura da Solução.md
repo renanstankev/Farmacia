@@ -35,8 +35,24 @@ Descreva aqui qual(is) tecnologias você vai usar para resolver o seu problema, 
 
 Apresente também uma figura explicando como as tecnologias estão relacionadas ou como uma interação do usuário com o sistema vai ser conduzida, por onde ela passa até retornar uma resposta ao usuário.
 
-## Hospedagem
+||Nome da Tecnologia|
+|-|-|
+|<img alt="Html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40px" width="50px"/>|Html|
+|<img alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40px" width="50px"/>|CSS|
+|<img alt="Js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40px" width="50px"/>|JavaScript|
+|<img alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40px" width="50px"/>|Bootstrap|
+|<img alt="Dotnet" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40px" width="50px"/>|.Net Core|
+|<img alt="Csharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40px" width="50px"/>|C#|
+|<img alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40px" width="50px"/>|PostgreSQL|
+|<img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="40px" width="50px"/>|Docker|
+|<img alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40px" width="50px"/>|Figma|
+|<img alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40px" width="50px"/>|Visual Studio Code|
+|<img alt="Visual Studo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40px" width="50px"/>|Visual Studio|
+|<img alt="Vercel" src="https://github.com/renanstankev/Farmacia-Online/assets/89418479/cc74a566-5705-4672-9564-6c644d87a4df" height="40px" width="50px"/>|Vercel|
+|<img alt="Draw.io" src="https://github.com/renanstankev/Farmacia-Online/assets/89418479/c273c15f-ebb2-4b76-8f5c-1bb45c246528" height="40px" width="50px"/>|Draw.io|
+|<img alt="Lucidchart" src="https://github.com/renanstankev/Farmacia-Online/assets/89418479/a8a30d15-fb8d-4c54-b89b-f9925251852b" height="50px" width="50px"/>|Lucidchart|
 
+## Hospedagem
 Explique como a hospedagem e o lançamento da plataforma foi feita.
 
 > **Links Úteis**:
