@@ -1,9 +1,9 @@
 
 # Metodologia
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
+Para criar um aplicativo de e-commerce de forma eficiente, é essencial seguir uma metodologia de trabalho bem definida e utilizar ferramentas adequadas para o desenvolvimento. O grupo optou por utilizar o Kanban como método de divisão de tarefas e é constantemente monitorado pelos membros para garantir que as entregas sejam realizadas de forma correta. Os projetos são divididos em 5 milestones com tarefas proporcionais em cada um deles. Devido à proficiência de alguns membros, tarefas como Design foram direcionadas para essas pessoas.
 
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
+Para a gestão do código fonte, o grupo optou por utilizar o repositório Git em conjunto com a plataforma GitHub. Essa escolha permite um controle eficaz das versões do código, facilita a colaboração entre os membros da equipe e oferece recursos adicionais, como rastreamento de problemas e integração contínua. O Git e o GitHub serão peças fundamentais no processo de desenvolvimento do aplicativo de e-commerce, garantindo uma gestão eficiente do código fonte
 
 ## Controle de Versão
 
@@ -35,16 +35,25 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 > - [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
 > - [The gitflow workflow - in less than 5 mins](https://www.youtube.com/watch?v=1SXpE08hvGs)
 
+
 ## Gerenciamento de Projeto
 
 ### Divisão de Papéis
 
-Apresente a divisão de papéis entre os membros do grupo.
+#### Product Owner (P.O): 
+- Matheus Soares da Silva
 
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+#### Scrum Master (Scrum): 
+- Shigery França Dutra Sasaki
+
+#### Desenvolvedores (Devs):
+
+- Natali Xavier Costa
+- Renan Stankevicius
+- Ana Clara Rozinholi
+
+#### Design (Devs):
+- Raul 
 
 ### Processo
 
